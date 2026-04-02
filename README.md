@@ -1,6 +1,4 @@
 # Python_Number_Game
 Simply number game in Python
 
-Pragram/gra wybiera pseudolosową liczbę, zadaniem użytkownika jest odgadnięcie tej liczby. 
-Po każdej próbie użytkownik dostaje podpowiedź czy lioczba wybrana przez program jest wyższa czy niższa od podanej.
-Program jest w fazie rozwoju, z czasem dodane zostaną nowe opcje i możliwości.
+The program/game selects a pseudo-random number, and the user's task is to guess this number. After each attempt, the user receives a hint indicating whether the number chosen by the program is higher or lower than the one given. The program is in the development phase, and over time new options and features will be added.
